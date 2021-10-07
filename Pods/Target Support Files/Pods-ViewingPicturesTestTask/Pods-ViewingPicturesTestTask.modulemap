@@ -1,0 +1,6 @@
+framework module Pods_ViewingPicturesTestTask {
+  umbrella header "Pods-ViewingPicturesTestTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
